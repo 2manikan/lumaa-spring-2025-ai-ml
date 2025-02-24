@@ -4,12 +4,12 @@
 This dataset includes the names and summaries of the top 250 IMDB movies. It is one of the public datasets found on Kaggle, and it must be downloaded and unzipped. Pandas, the dataframe-based Python library, was used to load the data into the program. 
 
 ## Setup
-Python version 3.12 is used. To install the dependencies, we simply run the command:
+Python version 3.12 is used. To install the dependencies, we simply run the command:  
 `pip install -r requirements.txt`
 
 ## Running
-In this program, we take in a query to compare the movies with. To run the recommendation system, we run the command:
-python tfidf_function_implementation.py "QUERY HERE"
+In this program, we take in a query to compare the movies with. To run the recommendation system, we run the command:  
+`python tfidf_function_implementation.py "QUERY HERE"`  
 The query can be replaced with one's own text.
 
 ## Results
