@@ -1,3 +1,5 @@
+Applicant: Meenakshi Manikandan
+
 This program is a movie recommendation system, allowing for users to find movies according to their tastes without needing to research hundreds of movies! Recommendations are based on a Tf-IDF vectorization + cosine similarity algorithm.
 
 ## Dataset
